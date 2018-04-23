@@ -1,0 +1,12 @@
+a = int("520")
+b = int(a)
+c = str(b)
+d = float(b)
+e = int(5.99)
+
+type(a)
+type(True)
+isinstance(a,bool)
+isinstance(True,bool)
+isinstance(True,str)
+isinstance(320,float)
